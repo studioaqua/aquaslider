@@ -1,0 +1,19 @@
+<?php
+/**
+ * @file
+ * aquaslider.module
+ */
+
+
+/**
+ * Implements hook_init().
+ */
+function aquaslider_init()
+{
+  drupal_add_css(
+    drupal_get_path('module', 'aquaslider') . '/css/aquaslider.css',
+    array(
+      'weight' => 100)
+    );
+}
+

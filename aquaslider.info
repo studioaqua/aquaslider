@@ -1,0 +1,11 @@
+name = Aqua Slider
+description = This module define the aqua's organism which implements slideshow.
+package = Aqua
+core = 7.x
+
+dependencies[] = bxslider
+dependencies[] = views_slideshow
+dependencies[] = bxslider_views_slideshow
+dependencies[] = colorbox
+
+;stylesheets[screen][] = css/aquaslider.css

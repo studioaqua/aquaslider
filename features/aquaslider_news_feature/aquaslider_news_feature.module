@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Aquaslider news feature feature.
+ */
+
+include_once 'aquaslider_news_feature.features.inc';
