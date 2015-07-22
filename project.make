@@ -12,3 +12,12 @@ projects[aquaslider][download][url] = "git://github.com/studioaqua/aquaslider.gi
 projects[aquaslider][download][branch] = "master"
 projects[aquaslider][type] = "module"
 projects[aquaslider][subdir] = aqua
+
+; Libraries
+libraries[bxslider][type] = "libraries"
+libraries[bxslider][download][type] = "file"
+libraries[bxslider][download][url] = "https://github.com/stevenwanderski/bxslider-4/archive/master.zip"
+
+libraries[colorbox][type] = "libraries"
+libraries[colorbox][download][type] = "file"
+libraries[colorbox][download][url] = "https://github.com/jackmoore/colorbox/archive/master.zip"
