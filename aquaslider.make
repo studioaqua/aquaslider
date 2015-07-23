@@ -14,5 +14,6 @@ projects[colorbox][subdir] = contrib
 ; Libraries
 libraries[bxslider][type] = "libraries"
 libraries[bxslider][download][type] = "file"
-libraries[bxslider][download][url] = "https://github.com/stevenwanderski/bxslider-4/archive/master.zip"
+libraries[bxslider][download][url] = "http://bxslider.com/lib/jquery.bxslider.zip"
+libraries[bxslider][directory_name] = "bxslider"
 
