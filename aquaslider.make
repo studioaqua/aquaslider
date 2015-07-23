@@ -1,3 +1,6 @@
+api = 2
+core = 7.x
+
 ; Modules for creating slideshow and carousel
 projects[bxslider][version] = "1.2"
 projects[bxslider][subdir] = contrib
